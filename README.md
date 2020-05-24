@@ -1,1 +1,1 @@
-# paulinhoneto.github.io
+#  Canal informativo sobre programação de computadores.
